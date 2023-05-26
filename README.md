@@ -18,7 +18,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://31.media.tumblr.com/1964cda859f720c200bac1312d5bb60e/tumblr_na03t0LfLH1qfxxzto1_500.gif" width="600" height="300"/>
+  <img src="https://media.tenor.com/pBd8QkM8ch8AAAAC/sonic-r-tails.gif" width="600" height="300"/>
 </div>
 
 ### :man_technologist: About Me :
