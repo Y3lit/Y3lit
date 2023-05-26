@@ -18,7 +18,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://media.tenor.com/pBd8QkM8ch8AAAAC/sonic-r-tails.gif" width="600" height="300"/>
+  <img src="https://custom-doodle.com/wp-content/uploads/doodle/working-with-a-laptop-anime-aesthetic/working-with-a-laptop-anime-aesthetic-doodle.gif" width="600" height="300"/>
 </div>
 
 ### :man_technologist: About Me :
