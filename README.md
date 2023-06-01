@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.tenor.com/ivNln_nQ29UAAAAC/sonic-tails-the-fox.gif"width="100"/>
+  <img src="https://media.tenor.com/moQP5A98waAAAAAC/shadow-glasses.gif"width="100"/>
 </div>
 
 <div id="badges" align="center">
@@ -13,8 +13,8 @@
 </div>
 
 <h1 align="center">
-  hi
-  <img src="https://media.tenor.com/a_JvvZ_a5dAAAAAi/sonic-fox.gif" width="40px" />
+  zdarova
+  <img src="https://gifdb.com/images/high/pop-cat-pixel-art-d7pjsrttz2xtfq4v.webp" width="40px" />
 </h1>
 
 <div align="center">
