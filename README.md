@@ -13,7 +13,7 @@
 </div>
 
 <h1 align="center">
-  zdarova
+  Hello
   <img src="https://gifdb.com/images/high/pop-cat-pixel-art-d7pjsrttz2xtfq4v.webp" width="40px" />
 </h1>
 
