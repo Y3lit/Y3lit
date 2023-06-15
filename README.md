@@ -47,12 +47,6 @@ I'm a Junior Python Backend Developer <img src="https://media.giphy.com/media/WU
 
 ---
 
-### :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com?user=Y3lit&theme=dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
-
----
-
-### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
 
